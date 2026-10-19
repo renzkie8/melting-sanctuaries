@@ -1,0 +1,138 @@
+# Available files
+
+- `.gitignore`
+- `ANIMALS/CUBS.jpg`
+- `ANIMALS/Fonts/AlSnowmen-RMo.ttf`
+- `ANIMALS/Fonts/DMSerifDisplay-Italic.ttf`
+- `ANIMALS/Fonts/DMSerifDisplay-Regular.ttf`
+- `ANIMALS/Fonts/Founders Grotesk.otf`
+- `ANIMALS/Fonts/IceAndsnowNormal-2ve8.ttf`
+- `ANIMALS/Fonts/Roslindale Variable Display Condensed.ttf`
+- `ANIMALS/animals2.html`
+- `ANIMALS/png and images/ArcticPeregrineFalcon.jpg`
+- `ANIMALS/png and images/Bear.jpg`
+- `ANIMALS/png and images/CanadaLynx.jpg`
+- `ANIMALS/png and images/Caribou.webp`
+- `ANIMALS/png and images/MuskOx.png`
+- `ANIMALS/png and images/Narwhal.jpg`
+- `ANIMALS/png and images/Ptarmigan.jpg`
+- `ANIMALS/png and images/Ptarmigan.webp`
+- `ANIMALS/png and images/RingedSeal.png`
+- `ANIMALS/png and images/SnowyOwl.avif`
+- `ANIMALS/png and images/WoodBison.webp`
+- `ANIMALS/png and images/africanantelope.jpg`
+- `ANIMALS/png and images/arcticNarwhal.jpg`
+- `ANIMALS/png and images/arcticWolf.webp`
+- `ANIMALS/png and images/atlanticWalrus.jpg`
+- `ANIMALS/png and images/bg.png`
+- `ANIMALS/png and images/cookInlet.jpg`
+- `ANIMALS/png and images/crumpledpaper.jpg`
+- `ANIMALS/png and images/dolphins.jpg`
+- `ANIMALS/png and images/glacier4.1.png`
+- `ANIMALS/png and images/kittlitzs.jpg`
+- `ANIMALS/png and images/penguins.jpg`
+- `ANIMALS/png and images/polarbear.jpg`
+- `ANIMALS/png and images/seiWhale.jpg`
+- `ANIMALS/png and images/sierraNevada.jpg`
+- `ANIMALS/png and images/torngatcaribou.avif`
+- `ANIMALS/styleanimal2.css`
+- `CONNECT/1.Beluga.jpg`
+- `CONNECT/1.Saiga.jpg`
+- `CONNECT/4.Saimaa Seal.jpg`
+- `CONNECT/5.Kitz-Mul.jpg`
+- `CONNECT/Antler.avif`
+- `CONNECT/CONNECT.html`
+- `CONNECT/Founders Grotesk.otf`
+- `CONNECT/KIt-Mur Headongs.jpg`
+- `CONNECT/Moose.jpg`
+- `CONNECT/Narwhal.jpg`
+- `CONNECT/Roslindale Variable Display Condensed.ttf`
+- `CONNECT/Saimaa Headings.jpg`
+- `CONNECT/Snowy Owl.jpg`
+- `CONNECT/THE ORIGINAL.css`
+- `CONNECT/THE ORIGINAL.js`
+- `CONNECT/bowhead_whale.jpg`
+- `CONNECT/cardinal bird.avif`
+- `CONNECT/cook inlet.jpg`
+- `CONNECT/greenland shark.jpg`
+- `CONNECT/musk ox.avif`
+- `CONNECT/penguinies.avif`
+- `CONNECT/ptarmigan.avif`
+- `CONNECT/saiga-headings.jpg`
+- `DATA.md`
+- `README.md`
+- `SUPPORT/IUCN.png`
+- `SUPPORT/IUCN.svg`
+- `SUPPORT/WWF.png`
+- `SUPPORT/WWF.svg`
+- `SUPPORT/glacierbg.jpeg`
+- `SUPPORT/goat.jpg`
+- `SUPPORT/penguin.jpg`
+- `SUPPORT/polarbear.jpeg`
+- `SUPPORT/polarbear.jpg`
+- `SUPPORT/rewildlogo.png`
+- `SUPPORT/rewildlogo.svg`
+- `SUPPORT/seal.jpg`
+- `SUPPORT/styleSupport.css`
+- `SUPPORT/support.html`
+- `VALIDATION.md`
+- `app.js`
+- `connect.css`
+- `connectImages/icebear.jpg`
+- `connectImages/otter.jpg`
+- `connectImages/penguin.jpg`
+- `fonts/Classyvogueregular.ttf`
+- `fonts/GAISTRO-Regular.ttf`
+- `fonts/Ice_Mirror_in_Winter_Kei.ttf`
+- `fonts/Poppins-Regular.ttf`
+- `fonts/Poppins-SemiBold.ttf`
+- `fonts/Roslindale-DisplayExtraLight-Testing.ttf`
+- `fonts/Roslindale-DisplayLight-Testing.otf`
+- `fonts/Roslindale-DisplayNarrowLight-Testing.ttf`
+- `fonts/Roslindale-DisplayNarrowRegular-Testing.otf`
+- `fonts/RoslindaleText-Regular.ttf`
+- `fonts/Snow Kei.ttf`
+- `fonts/Winter Kei.ttf`
+- `images/1337838.png`
+- `images/2bears.jpg`
+- `images/2bears2.jpg`
+- `images/arcticfox.png`
+- `images/connect.css`
+- `images/emperorpengu.jpg`
+- `images/glacier1.png`
+- `images/glacier2.png`
+- `images/glacier3.png`
+- `images/glacier4.png`
+- `images/icebg.jpg`
+- `images/whale.jpg`
+- `images/whale.png`
+- `index.html`
+- `nested-supplements/ice-and-snow-font/info.txt`
+- `nested-supplements/summer_dream_sans/Display.jpg`
+- `nested-supplements/summer_dream_sans/MF-Summer-DreamArtboard-1.png`
+- `nested-supplements/summer_dream_sans/READ FIRST.pdf`
+- `nested-supplements/summer_dream_sans/Summer Dream Sans DEMO .ttf`
+- `newImages/bear.png`
+- `newImages/bear2.png`
+- `newImages/bg1.jpg`
+- `newImages/cuteBear.jpg`
+- `newImages/glacier-bg.jpg`
+- `newImages/glacier1.png`
+- `newImages/glacier2.png`
+- `newImages/glacier3.png`
+- `newImages/glacier4.1.png`
+- `newImages/glacier4.png`
+- `newImages/icecrack1.png`
+- `newImages/icecrack2.png`
+- `newImages/img2.jpg`
+- `newImages/img3.jpg`
+- `newImages/img3bear.jpg`
+- `newImages/img3boat.jpg`
+- `newImages/line1.png`
+- `newImages/line2.png`
+- `newImages/meltingGlacier1.jpg`
+- `newImages/penguin1.jpg`
+- `newImages/signpost1.jpg`
+- `particles.js`
+- `script.js`
+- `styleMain.css`
